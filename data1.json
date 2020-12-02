@@ -1,0 +1,18 @@
+[{
+    "id": 1,
+    "Name": "Christian Bale",
+    "Place": "Gotham City",
+    "Occupation": "Batman"
+},
+{
+    "id": 2,
+    "Name": "Tony Stark",
+    "Place": "Washington DC",
+    "Occupation": "Iron Man"
+},
+{
+    "id": 3,
+    "Name": "Clark Kent",
+    "Place": "Times Square",
+    "Occupation": "Superman"
+}]

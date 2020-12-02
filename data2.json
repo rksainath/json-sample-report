@@ -1,0 +1,18 @@
+[{
+    "id": 1,
+    "Name": "Rajinikanth",
+    "Place": "Poes Garden",
+    "Occupation": "Super Star"
+},
+{
+    "id": 2,
+    "Name": "Kamal Haasan",
+    "Place": "Alwarpet",
+    "Occupation": "Ulaga Nayagan"
+},
+{
+    "id": 3,
+    "Name": "Vijayakanth",
+    "Place": "Kodambakkam",
+    "Occupation": "Captain"
+}]
